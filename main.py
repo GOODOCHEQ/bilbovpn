@@ -10,7 +10,7 @@ from datetime import datetime
 bot = telebot.TeleBot('7199324736:AAG_j6wOSURnCmVMd6wewJ2zcs_e2GR5LYs')
 
 # Путь к файлу Excel
-excel_file_path = 'C:/Users/MerV1ng/OneDrive/Рабочий стол/TELEGA.xlsx'
+excel_file_path = 'TELEGA.xlsx'
 
 # Токен вашего ЮKassa
 yookassa_token = '381764678:TEST:79311'
